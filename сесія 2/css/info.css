@@ -1,0 +1,21 @@
+
+
+
+
+.worcher{
+	width: 1200px;
+	height: 700px;
+	display: flex;
+	justify-content:space-around;
+	background: #c7c7c1;
+	border-radius: 10px;
+	position: relative;
+	left: 300px;
+
+}
+.foto_wor{
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: 10px;
+}

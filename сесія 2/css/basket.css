@@ -1,0 +1,76 @@
+.basket{
+	position: relative;
+	left: 550px;
+	width: 700px;
+	
+	display: flex;
+	justify-content:center ;
+	
+
+	border: 2px solid black;
+
+
+
+
+}
+.sps{
+	width: 700px;
+	height: 700px;
+	display: block;
+
+	position: relative;
+	left: 550px;
+	justify-content:center ;
+	border: 2px solid black;
+}
+
+.list_sps1{
+	width: 100%;
+	height: 100px;
+	border: 2px solid black;
+	display: flex;
+	justify-content: column;
+
+
+}
+.list_foto{
+	width: 100px;
+	height: 100px;
+}
+.men{
+	position: relative;
+	left: 200px;
+display: flex;
+ flex-direction: row;
+  justify-content: flex-end;
+}
+button{
+	height: 70px;
+	border: none;
+	padding: 10px;
+	border: 1px solid black;
+	display: flex;
+	align-items: center;
+	position: relative;
+	top: 15px;
+
+}
+.sps2{
+	width: 700px;
+	height: 100px;
+	border: 2px solid black;
+	position: relative;
+	left: 550px;
+}
+.op{
+	position: relative;
+	left: -300px;
+	top: -70px;
+}
+.polosca2{
+	width: 270%;
+	height: 5px;
+	background: black;
+	position: relative;
+	left: -600px;
+}

@@ -1,0 +1,61 @@
+
+.buy_list{
+	height: 100%;
+	display: flex;
+	justify-content: column;
+	justify-content: space-around;
+	padding: 40px;
+}
+.list,.list2,.list3,.list4{
+	width: 400px;
+	height: 600px;
+	background: #dbdbd5;	
+
+}
+.foto{
+	width: 100%;
+	height: 80%;
+
+
+}
+.info{
+position: relative;
+
+top: -25px;
+display: flex;
+justify-content: center;	
+}
+.buy{
+	width: 110px;
+position: relative;
+left: 140px;
+top: -55px;	
+background: #c7c7c1;
+border-radius:4px ;
+}
+.buy:hover{
+	background: #999993;
+}
+.filtr{
+	width: 200px;
+	height: 100px;
+	
+}
+.conpca{
+	width: 500px;
+	display: flex;
+	padding: 20px;
+	justify-content: space-around;
+}
+.tab2{
+	border: none;
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+	border-radius:10px ;
+}
+.info2{
+	position: relative;
+	top: -40px;
+	left: 20px;
+}
